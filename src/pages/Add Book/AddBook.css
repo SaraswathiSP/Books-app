@@ -1,0 +1,77 @@
+.form-books-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.login-form{
+  background-color: #FEA1A1;
+  display: flex;
+  flex-direction: column;
+  width:370px;
+  padding:30px;
+  width: 35%;
+  margin-left: 30px;
+
+}
+.book-form{
+ margin-left: 20px;;
+}
+
+.label-name{
+color:"#0C134F";
+font-size:20px;
+margin-bottom: 25px;
+font-family: "Roboto";
+color:#ffffff;
+}
+
+.input-name{
+color:"#99A98F";
+font-size: 15px;
+background-color: aliceblue;
+width: 95%;
+height:45px;
+padding: 8px;
+border-radius: 5px;
+margin-bottom: 20px;
+}
+.input-name:hover{
+  border:2px solid #5C469C;
+}
+
+
+ .books-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 65%;
+ }
+
+ .new-book-container{
+  padding: 3rem 2rem;
+  border-radius: 4px;
+  background-color: var(--white-color);
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 5px 15px 0px;
+  transition: var(--transition);
+  list-style: none;
+  margin-bottom: 20px;
+}
+.new-book-container:hover{
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+}
+.new-book-container img{
+  max-width: 180px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.title{
+  line-height: 1.4;
+  margin-bottom: 0.8rem;
+  font-size: 18px;
+}
+.author{
+  color:"#99A98F !important";
+}
