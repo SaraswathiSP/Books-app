@@ -1,3 +1,5 @@
+
+
 import React from 'react';
 import Navbar from "../Navbar/Navbar";
 import SearchForm from "../SearchForm/SearchForm";
@@ -20,8 +22,7 @@ And shelves adorned, with literary quests.
 Each book a journey, a story untold,
 Unfolding secrets, as time unfolds.
 
-</p>
-                <SearchForm />
+</p>                <SearchForm />
             </div>
         </header>
     </div>
