@@ -15,7 +15,7 @@ const About = () => {
             <img src = {aboutImg} alt = "" />
           </div>
           <div className='about-text'>
-            <h2 className='about-title fs-26 ls-1'>About BookHub</h2>
+            <h2 className='about-title fs-26 ls-1'>About BookApp</h2>
             <p className='fs-17'>In the realm of words and boundless thought,
 Lies a world unseen, within books sought.
 With pages filled, a treasure trove,

@@ -22,7 +22,7 @@ To deploy this project run
   npm start
 ```
 
-Deployed Netlify Link : "https://spbooks-app.netlify.app/add-book"
+Deployed Netlify Link : "https://books-application-vaf3.onrender.com/"
 
 ## 🛠 Skills
 Javascript, HTML, CSS, ReactJs, NodeJs, ExpressJs, Bootstrap, 
